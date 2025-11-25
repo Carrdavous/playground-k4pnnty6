@@ -1,12 +1,12 @@
-from skeleton import something
+from skeleton import est_divisible_par_3
     
 
-def test_something():
+def test_est_divisible_par_3():
     try:
-        count1 = count_all_stars([2, 3])
-        assert count1 == 5, "Running count_all_stars([2, 3])... Expected 5, got {}".format(count1)
-        count2 = count_all_stars([9, -3])
-        assert count2 == 6, "Running count_all_stars([9, -3])... Expected 6, got {}".format(count2)
+        test1 = est_divisible_par_3(17)
+        assert test1 == False, f"17 est pas divisble par 3: {test1}... Attendu: True"
+        test2 = est_divisible_par_3(39)
+        assert test2 == True, "39 est divisible par 39: {test2}... Attentu: True"
         success()
 
         if sum_builtin_used:
