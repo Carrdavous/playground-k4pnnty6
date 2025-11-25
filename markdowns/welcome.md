@@ -4,9 +4,10 @@ Ce didacticiel est conçu pour vous apprendre à programmer avec **Python3**.
 
 Afin d'améliorer l'expérience de l'apprentissage, il sera possible de tester du code python directement dans les pages du didacticiel lui-même. 
 
-# Testez votre code python
+# Testez votre code python en ligne directement
 
 Voici un exemple d'éditeur dans lequel vous allez pouvoir tester directement du code python.
+
 ```python runnable
 print("Hello World")
 ```
