@@ -15,5 +15,5 @@ print("Hello World")
 
 Par la suite, il vous sera demandé d'écrire un code python spécifique à une problématique particulière.
 
-@[Faites le test, ici !]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
+@[Faites le test, ici !]({"stubs": ["skeleton.py"], "command": "python3 test_skeleton.py"})
 
