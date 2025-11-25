@@ -7,6 +7,9 @@ Afin d'améliorer l'expérience de l'apprentissage, il sera possible de tester d
 # Testez votre code python
 
 Voici un exemple d'éditeur dans lequel vous allez pouvoir tester directement du code python.
+```python runnable
+print("Hello World")
+```
 
 @[Écrivez du code python, ici !]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
 
