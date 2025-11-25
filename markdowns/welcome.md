@@ -1,9 +1,8 @@
-# Welcome!
+# Bienvenue sur **Apprendre à programmer avec Python 3** !
 
-This Python template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+Ce didacticiel est conçu pour vous apprendre à programmer avec **Python3**.
 
-
-The source code is on [GitHub](https://github.com/TechDotIO/python-template), please feel free to come up with proposals to improve it.
+Afin d'améliorer l'expérience de l'apprentissage, il sera possible de tester du code python directement dans les pages du didacticiel lui-même. 
 
 # Hands-on Demo
 
