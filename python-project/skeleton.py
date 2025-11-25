@@ -1,3 +1,3 @@
-def est_divisble_par_3(x):
+def est_divisible_par_3(x):
   return x % 3 == 0
   
