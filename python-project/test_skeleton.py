@@ -10,7 +10,7 @@ def test_est_divisible_par_3():
         assert test2 == True, "39 est divisible par 39: {test2}... Attentu: True"
         success()
 
-        send_msg("Félicitations !", "Vous avez répondu correctement à l'énoncé")
+        send_msg("Félicitations 🎉 !", "Vous avez répondu correctement à l'énoncé.")
     except AssertionError as e:
         fail()
         send_msg("Oups! 🐞", e)
