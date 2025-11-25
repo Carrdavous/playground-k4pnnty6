@@ -1,3 +1,4 @@
+from techio import *
 from skeleton import est_divisible_par_3
     
 
