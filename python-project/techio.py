@@ -8,3 +8,7 @@ def success():
 
 def fail():
     print("TECHIO> success false")
+
+
+def felicitations():
+    send_msg("Félicitations 🎉 !", "Vous avez répondu correctement à l'énoncé.")
