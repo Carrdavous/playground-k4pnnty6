@@ -17,5 +17,3 @@ Par la suite, il vous sera demandé d'écrire un code python spécifique à une 
 
 @[Faites le test, ici !]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
 
-Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
-
