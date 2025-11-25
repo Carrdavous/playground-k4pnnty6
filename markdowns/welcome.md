@@ -4,9 +4,11 @@ Ce didacticiel est conçu pour vous apprendre à programmer avec **Python3**.
 
 Afin d'améliorer l'expérience de l'apprentissage, il sera possible de tester du code python directement dans les pages du didacticiel lui-même. 
 
-# Hands-on Demo
+# Testez votre code python
 
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
+Voici un exemple d'éditeur dans lequel vous allez pouvoir tester directement du code python.
+
+@[Écrivez du code python, ici !]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
