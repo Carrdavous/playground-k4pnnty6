@@ -15,4 +15,4 @@ def test_est_divisible_par_3():
         send_msg("Oups! 🐞", e)
 
 if __name__ == "__main__":
-    test_something()
+    test_est_divisible_par_3()
