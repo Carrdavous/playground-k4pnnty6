@@ -1,6 +1,6 @@
-title: Python Project
+title: Apprendre à programmer avec Python3
 plan:
-- title: Welcome
+- title: Bienvenue
   statement: markdowns/welcome.md
 projects:
   python:
